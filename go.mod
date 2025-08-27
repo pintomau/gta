@@ -1,4 +1,4 @@
-module github.com/digitalocean/gta
+module github.com/pintomau/gta
 
 go 1.24
 
